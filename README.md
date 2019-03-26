@@ -12,12 +12,12 @@ As anyone writes any form of code, they normally run into several errors and war
 7. Hit the play button found in the bottom left by the console.
 8. Have fun!
 ## FAQ
-**What was used to write this application?**
-I used SpriteKit to write this application in playground.
-**How long did this application take to write?**
-I wrote this application across 4 total days, most of which was spent learning about SpriteKit via documentation and online tutorials.
-**Where are the assets from?**
-All assets except the macOS error sound and symbol are created by me, although I editted the modern-day warning and error symbols.
-**Did you make it in to WWDC19?**
-As of writing this, I don't know if I made it into WWDC19 yet. However, due to the high amount of talented people applying, I doubt this submission will be accepted. It was fun to program nonetheless.
+-**What was used to write this application?**
+  -I used SpriteKit to write this application in playground.
+-**How long did this application take to write?**
+  -I wrote this application across 4 total days, most of which was spent learning about SpriteKit via documentation and online tutorials.
+-**Where are the assets from?**
+  -All assets except the macOS error sound and symbol are created by me, although I editted the modern-day warning and error symbols.
+-**Did you make it in to WWDC19?**
+  -As of writing this, I don't know if I made it into WWDC19 yet. However, due to the high amount of talented people applying,    I doubt this submission will be accepted. It was fun to program nonetheless.
 
