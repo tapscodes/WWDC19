@@ -19,5 +19,5 @@ As anyone writes any form of code, they normally run into several errors and war
 - **Where are the assets from?**
   - All assets except the macOS error sound and symbol are created by me, although I editted the modern-day warning and error symbols.
 - **Did you make it in to WWDC19?**
-  - As of writing this, I don't know if I made it into WWDC19 yet. However, due to the high amount of talented people applying,    I doubt this submission will be accepted. It was fun to program nonetheless.
+  - Sadly, I didn't make it into WWDC this year, however one of my friends from my school managed to make it in this year and another one of my friends made it in last year. It was fun to program nonetheless.
 
